@@ -324,7 +324,7 @@ function Contact() {
               <div className="social-links">
                 <motion.a href="https://github.com/Subrxmanian" target="_blank" rel="noopener noreferrer" className="social-link" whileHover={{ y: -3 }}><FaGithub /></motion.a>
                 <motion.a href="https://www.linkedin.com/in/subramanianmobileappdeveloper/" target="_blank" rel="noopener noreferrer" className="social-link" whileHover={{ y: -3 }}><FaLinkedin /></motion.a>
-                <motion.a href="https://wa.me/9790583194?text=Hi" target="_blank" rel="noopener noreferrer" className="social-link" whileHover={{ y: -3 }}><BsWhatsapp /></motion.a>
+                <motion.a href="https://wa.me/919790583194?text=Hi" target="_blank" rel="noopener noreferrer" className="social-link" whileHover={{ y: -3 }}><BsWhatsapp /></motion.a>
               </div>
             </div>
           </AnimatedSection>
