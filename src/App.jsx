@@ -121,7 +121,7 @@ function Hero() {
           <motion.div className="hero-cta" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: 0.5 }}>
             <motion.a href="#projects" className="btn btn-primary btn-glow" whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}><span>View My Work</span><FaArrowRight /></motion.a>
             <motion.a href="#contact" className="btn btn-secondary" whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>Get In Touch</motion.a>
-            <motion.a href="/SUBRAMANIAN.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-outline" whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}><FaDownload />Resume</motion.a>
+            <motion.a href="/subramani.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-outline" whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}><FaDownload />Resume</motion.a>
           </motion.div>
           <motion.div className="hero-tech-stack" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.5, delay: 0.6 }}>
             <span className="tech-label">Tech Stack</span>
