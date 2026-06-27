@@ -116,7 +116,7 @@ function Hero() {
             <TypeAnimation sequence={roles} wrapper="span" speed={50} repeat={Infinity} className="typing-text" /><span className="typing-cursor">|</span>
           </motion.h2>
           <motion.p className="hero-description" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: 0.4 }}>
-            Building seamless cross-platform mobile experiences with <span className="highlight"> 1+ year</span> of hands-on expertise. Transforming ideas into high-performance apps.
+            Building seamless cross-platform mobile experiences with <span className="highlight"> 1.8+ year</span> of hands-on expertise. Transforming ideas into high-performance apps.
           </motion.p>
           <motion.div className="hero-cta" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: 0.5 }}>
             <motion.a href="#projects" className="btn btn-primary btn-glow" whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}><span>View My Work</span><FaArrowRight /></motion.a>
